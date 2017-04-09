@@ -1,0 +1,14 @@
+# User-specific stuff:
+.idea/*
+
+
+## File-based project format:
+*.iws
+
+static
+
+*.pyc
+db.sqlite3
+myenv
+__pycache__
+local_settings.py
