@@ -6,7 +6,6 @@ import json
 
 
 def hello_world(request):
-    Words.objects.create(eng_word=u'cat', rus_word = u'кот')
     return HttpResponse('Hello World!')
 
 
