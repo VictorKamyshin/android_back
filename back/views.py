@@ -3,7 +3,6 @@ from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse, HttpResponseBadRequest
 from models import *
 import json
-# Create your views here.
 
 
 def hello_world(request):
