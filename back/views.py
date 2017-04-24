@@ -6,7 +6,7 @@ import json
 
 
 def hello_world(request):
-    return HttpResponse('Hello World!')
+    return HttpResponse('Hello Azure!')
 
 
 def get_from_db(request):
